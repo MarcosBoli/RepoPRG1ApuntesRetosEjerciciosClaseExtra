@@ -107,7 +107,7 @@ public class Pozo {
             if(caracolPersonalizado>=nivelPersonalizado){
                 System.out.println("El caracol está muerto");
             }else {
-                System.out.println("El caracol está vivo");
+                System.out.println("El caracol está vivo!!");
             }
             
         }
